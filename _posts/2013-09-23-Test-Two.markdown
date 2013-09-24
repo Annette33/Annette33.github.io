@@ -2,7 +2,7 @@
 layout: news_item
 title: "Test Two"
 date: 2013-09-23 22:13:00 -0500
-author: danielburhans
+author: annette33
 version: 1.2.1
 categories: ["3D Modeling"]
 ---
