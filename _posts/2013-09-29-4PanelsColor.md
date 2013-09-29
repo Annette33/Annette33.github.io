@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: "4 Panels"
+title: "4 Panels With Color"
 date: "2013-09-29 12:53:00 -0500"
 author: annette33
 version: 1.2.1
