@@ -9,4 +9,4 @@ categories: ["Sketches"]
 
 Here is a colored version of the four panels from 'The Graveyard Book'. I was going for more darker colors since the feel of the book was quite dark. The second to last panel on the left is of Mr. and Mrs. Owens arguing about what to do with the baby. The baby is suppose to be on the ground and the drawing is suppose to have the camera pointing down, but it ended up looking like the baby is floating, lol. The last panel is suppose to be when the baby falls asleep in Mrs. Owen's lap. I chose to use a light blue aurora so it looks relaxing and warm.
 
-![4 Pannels Color](/img/4PanelsColor.jpg)
+![4 Panels Color](/img/4panelsColor.jpg)
