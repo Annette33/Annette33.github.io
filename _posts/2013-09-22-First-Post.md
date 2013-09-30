@@ -1,7 +1,7 @@
 ---
 layout: news_item
 title: "First Post"
-date: "2013-09-23 10:42:00 -0500"
+date: "2013-09-22 10:42:00 -0500"
 author: annette33
 version: 1.2.1
 categories: ["Sketches"]
